@@ -1,0 +1,6 @@
+DOKUMENTASI.md
+vir-go-job-board-api/
+*.exe
+*.test
+.env
+log/
